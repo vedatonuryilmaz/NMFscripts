@@ -1,0 +1,127 @@
+{
+  "organ_system_groupings": [
+    {
+      "group_name": "Leukemias/Blood Cancers",
+      "color": "#E69F00",
+      "cancer_codes": [
+        "LAML",
+        "LCML"
+      ]
+    },
+    {
+      "group_name": "Brain/Nervous System Cancers",
+      "color": "#56B4E9",
+      "cancer_codes": [
+        "LGG",
+        "GBM",
+        "PCPG"
+      ]
+    },
+    {
+      "group_name": "Breast Cancer",
+      "color": "#009E73",
+      "cancer_codes": [
+        "BRCA"
+      ]
+    },
+    {
+      "group_name": "Gynecological Cancers (excluding Breast)",
+      "color": "#F0E442",
+      "cancer_codes": [
+        "CESC",
+        "OV",
+        "UCS",
+        "UCEC"
+      ]
+    },
+    {
+      "group_name": "Digestive/Gastrointestinal Cancers (Upper)",
+      "color": "#0072B2",
+      "cancer_codes": [
+        "ESCA",
+        "STAD",
+        "CHOL"
+      ]
+    },
+    {
+      "group_name": "Digestive/Gastrointestinal Cancers (Lower)",
+      "color": "#D55E00",
+      "cancer_codes": [
+        "COAD",
+        "READ"
+      ]
+    },
+    {
+      "group_name": "Liver Cancer",
+      "color": "#CC79A7",
+      "cancer_codes": [
+        "LIHC"
+      ]
+    },
+    {
+      "group_name": "Pancreatic Cancer",
+      "color": "#999933",
+      "cancer_codes": [
+        "PAAD"
+      ]
+    },
+    {
+      "group_name": "Lung Cancers",
+      "color": "#00CCCC",
+      "cancer_codes": [
+        "LUAD",
+        "LUSC"
+      ]
+    },
+    {
+      "group_name": "Kidney Cancers",
+      "color": "#E08214",
+      "cancer_codes": [
+        "KICH",
+        "KIRC",
+        "KIRP"
+      ]
+    },
+    {
+      "group_name": "Urological Cancers (excluding Kidney)",
+      "color": "#882255",
+      "cancer_codes": [
+        "BLCA",
+        "PRAD",
+        "TGCT"
+      ]
+    },
+    {
+      "group_name": "Head and Neck Cancers",
+      "color": "#AA4499",
+      "cancer_codes": [
+        "HNSC"
+      ]
+    },
+    {
+      "group_name": "Skin Cancers",
+      "color": "#44AA99",
+      "cancer_codes": [
+        "SKCM",
+        "UVM"
+      ]
+    },
+    {
+      "group_name": "Sarcomas/Mesenchymal Tumors",
+      "color": "#117733",
+      "cancer_codes": [
+        "SARC",
+        "MESO"
+      ]
+    },
+    {
+      "group_name": "Endocrine Cancers (excluding Adrenal/PCPG if grouped with Brain)",
+      "color": "#332288",
+      "cancer_codes": [
+        "ACC",
+        "THCA",
+        "THYM"
+      ]
+    }
+  ]
+}
